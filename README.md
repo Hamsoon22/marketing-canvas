@@ -31,7 +31,7 @@ npm run dev
 
 브라우저에서 http://localhost:5173 접속
 
----
+```
 
 ## 🛠 Tech Stack | 기술 스택
 
