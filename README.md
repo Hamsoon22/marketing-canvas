@@ -43,10 +43,8 @@ npm run dev
 ---
 
 ## 📦 Folder Structure | 폴더 구조
-css
-Copy
-Edit
-marketing-canvas/
+```
+📦 marketing-canvas/
 ├── public/
 │   └── index.html
 ├── src/
@@ -56,6 +54,8 @@ marketing-canvas/
 │   └── main.jsx
 ├── index.css
 └── README.md
+```
+
 
 ---
 
